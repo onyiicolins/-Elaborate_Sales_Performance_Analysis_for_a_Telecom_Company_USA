@@ -1,4 +1,4 @@
-# -Elaborate_Sales_Performance_Analysis_for_a_Telecom_Company_USA
+[customer_behaviour.csv](https://github.com/user-attachments/files/17308819/customer_behaviour.csv)# -Elaborate_Sales_Performance_Analysis_for_a_Telecom_Company_USA
 A Data Analysis Project that Analysed  the sales performance of a Telecommunication  company Based in the United State. The company’s sales transaction data generated over the past years was used for this  analysis.
 This Data Analysis Project aims to provide  insights into the sales performance of a Telecommunication  company Based in the United State. 
 
@@ -135,6 +135,15 @@ GROUP BY year
 ORDER BY year ASC
 
 ```
+
+
+
+
+
+
+
+
+
 
 ## Results and  Findings: 
 
